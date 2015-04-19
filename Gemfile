@@ -34,6 +34,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'foundation-rails', '~> 5.4.5.0'
 gem 'haml', '~> 4.0.6'
+gem 'font-awesome-sass', '~> 4.3.2.1'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
